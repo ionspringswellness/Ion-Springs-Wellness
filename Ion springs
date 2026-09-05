@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Ion Springs Wellness | Personalized Water Analysis</title>
+
+<meta name="description" content="Ion Springs Wellness provides personalized local water-quality insights, water education, and Kangen molecular hydrogen water experiences.">
+
+<style>
+*{box-sizing:border-box}
+
+body{
+margin:0;
+font-family:Arial,Helvetica,sans-serif;
+color:#183047;
+line-height:1.6;
+background:white;
+}
+
+header{
+background:white;
+padding:20px;
+text-align:center;
+border-bottom:1px solid #dce8ef;
+}
+
+.logo{
+font-size:25px;
+font-weight:bold;
+letter-spacing:3px;
+color:#0d3158;
+}
+
+.tagline{
+font-size:12px;
+letter-spacing:2px;
+color:#367eb5;
+margin-top:4px;
+}
+
+.hero{
+background:linear-gradient(#f7fcff,#e9f6fb);
+padding:70px 22px;
+text-align:center;
+}
+
+.hero h1{
+font-size:48px;
+line-height:1.05;
+color:#0d3158;
+margin:0 auto 20px;
+max-width:800px;
+}
+
+.hero p{
+font-size:19px;
+max-width:720px;
+margin:0 auto 30px;
+color:#425b70;
+}
+
+.button{
+display:inline-block;
+background:#0d3158;
+color:white;
+padding:15px 25px;
+border-radius:30px;
+text-decoration:none;
+font-weight:bold;
+margin:6px;
+}
+
+.section{
+padding:65px 22px;
+max-width:1050px;
+margin:auto;
+}
+
+h2{
+color:#0d3158;
+font-size:34px;
+text-align:center;
+margin-bottom:12px;
+}
+
+.intro{
+text-align:center;
+max-width:760px;
+margin:0 auto 35px;
+color:#647687;
+}
+
+.cards{
+display:flex;
+gap:20px;
+flex-wrap:wrap;
+justify-content:center;
+}
+
+.card{
+flex:1;
+min-width:250px;
+padding:27px;
+border:1px solid #d7e5ee;
+border-radius:20px;
+background:white;
+}
+
+.card h3{
+color:#0d3158;
+font-size:21px;
+}
+
+.icon{
+font-size:34px;
+}
+
+.pricing{
+background:#f5fafc;
+padding:65px 22px;
+}
+
+.price-container{
+max-width:1000px;
+margin:auto;
+display:flex;
+gap:25px;
+flex-wrap:wrap;
+}
+
+.package{
+background:white;
+border:1px solid #d5e4ed;
+border-radius:22px;
+padding:30px;
+flex:1;
+min-width:290px;
+}
+
+.package.premium{
+border:2px solid #347fb7;
+}
+
+.package h3{
+color:#0d3158;
+font-size:23px;
+}
+
+.price{
+font-size:43px;
+font-weight:bold;
+color:#0d3158;
+margin:10px 0;
+}
+
+ul{
+padding-left:20px;
+}
+
+li{
+margin:10px 0;
+}
+
+.steps{
+display:flex;
+gap:15px;
+flex-wrap:wrap;
+margin-top:35px;
+}
+
+.step{
+flex:1;
+min-width:200px;
+background:#edf7fb;
+border-radius:18px;
+padding:23px;
+}
+
+.step strong{
+display:block;
+color:#0d3158;
+font-size:18px;
+}
+
+.notice{
+background:#f4f5f6;
+border-left:4px solid #718494;
+padding:20px;
+border-radius:8px;
+margin-top:35px;
+font-size:14px;
+}
+
+.cta{
+background:#0d3158;
+color:white;
+padding:55px 25px;
+text-align:center;
+}
+
+.cta h2{
+color:white;
+}
+
+.cta p{
+max-width:700px;
+margin:0 auto 25px;
+}
+
+.cta .button{
+background:white;
+color:#0d3158;
+}
+
+footer{
+text-align:center;
+padding:35px 20px;
+font-size:13px;
+color:#71808d;
+}
+
+@media(max-width:600px){
+.hero h1{font-size:38px}
+h2{font-size:29px}
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<div class="logo">💧 ION SPRINGS WELLNESS</div>
+<div class="tagline">BETTER WATER. BRIGHTER DAYS.</div>
+</header>
+
+
+<section class="hero">
+
+<h1>What's Really in Your Water?</h1>
+
+<p>
+Discover available water-quality information for your local area and get personalized guidance to better understand the water your family uses every day.
+</p>
+
+<a class="button" href="https://stan.store/SylviaCaldwell">
+Start Your Water Analysis
+</a>
+
+<a class="button" href="#experiences">
+View Water Experiences
+</a>
+
+</section>
+
+
+<section class="section">
+
+<h2>Know Your Water</h2>
+
+<p class="intro">
+Ion Springs Wellness helps families turn complicated local water-quality information into easy-to-understand insights.
+</p>
+
+<div class="cards">
+
+<div class="card">
+<div class="icon">📍</div>
+<h3>Personalized Local Water Report</h3>
+<p>
+Using your ZIP code and available local or municipal water-quality information, we help you explore what's reported in your area's water supply.
+</p>
+</div>
+
+<div class="card">
+<div class="icon">🔬</div>
+<h3>Understand What's Reported</h3>
+<p>
+Explore available information about contaminants, disinfectants, minerals, hardness, pH and other characteristics of your local water.
+</p>
+</div>
+
+<div class="card">
+<div class="icon">💧</div>
+<h3>Water Education</h3>
+<p>
+Learn about filtration, ionization and molecular hydrogen water while exploring water options for your household.
+</p>
+</div>
+
+</div>
+
+</section>
+
+
+<section class="pricing" id="experiences">
+
+<h2>Ion Springs Water Experiences</h2>
+
+<p class="intro">
+Personalized water education designed around your household.
+</p>
+
+<div class="price-container">
+
+<div class="package">
+
+<h3>Fresh Molecular Hydrogen Water Experience + Personalized Home Water Analysis</h3>
+
+<div class="price">$150</div>
+
+<p><strong>Regular Retail Value</strong></p>
+
+<ul>
+<li>Personalized ZIP-code water-quality analysis</li>
+<li>Available local contaminant information</li>
+<li>Mineral and hardness insights</li>
+<li>Disinfectant and water-quality education</li>
+<li>20-minute one-on-one consultation</li>
+<li>Introduction to molecular hydrogen and ionized water</li>
+<li>Fresh Kangen water experience where available</li>
+</ul>
+
+<a class="button" href="https://stan.store/SylviaCaldwell">
+Start Your Experience
+</a>
+
+</div>
+
+
+<div class="package premium">
+
+<h3>Premium Home Water Analysis + Kangen Water Experience</h3>
+
+<div class="price">$150</div>
+
+<p><strong>Regular Retail Value</strong></p>
+
+<ul>
+<li>Personalized local water-quality review</li>
+<li>Review of available contaminant information</li>
+<li>Mineral, hardness and disinfectant insights</li>
+<li>Private water consultation</li>
+<li>Guided Kangen water demonstration</li>
+<li>Molecular hydrogen water education</li>
+<li>Water filtration and ionization education</li>
+<li>Personalized discussion based on your household's water goals</li>
+</ul>
+
+<a class="button" href="https://stan.store/SylviaCaldwell">
+Choose Your Experience
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+
+<section class="section">
+
+<h2>How Your Water Analysis Works</h2>
+
+<div class="steps">
+
+<div class="step">
+<strong>1. Enter Your Information</strong>
+Provide your ZIP code and tell us a little about your household's water.
+</div>
+
+<div class="step">
+<strong>2. We Research</strong>
+We review available local and municipal water-quality information relevant to your area.
+</div>
+
+<div class="step">
+<strong>3. Get Your Insights</strong>
+Receive an easy-to-understand personalized overview of available water-quality information.
+</div>
+
+<div class="step">
+<strong>4. Explore Your Options</strong>
+Learn about filtration, ionization and molecular hydrogen water options.
+</div>
+
+</div>
+
+
+<div class="notice">
+<strong>Important:</strong> ZIP-code water analysis uses available local or municipal water-quality information and is not laboratory testing of water collected from your individual faucet. Ion Springs Wellness provides educational information and does not provide medical diagnosis or treatment.
+</div>
+
+</section>
+
+
+<section class="cta">
+
+<h2>What's in Your Water?</h2>
+
+<p>
+Your ZIP code is the starting point. Discover available information about your local water and receive personalized water education from Ion Springs Wellness.
+</p>
+
+<a class="button" href="https://stan.store/SylviaCaldwell">
+Get Your Personalized Water Analysis
+</a>
+
+</section>
+
+
+<footer>
+
+<strong>ION SPRINGS WELLNESS</strong><br>
+Better Water. Brighter Days.<br><br>
+
+Personalized water-quality education and Kangen water experiences.<br><br>
+
+Educational information only. Water experiences and samples are subject to availability and applicable local requirements.
+
+</footer>
+
+</body>
+</html>
